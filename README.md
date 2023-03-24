@@ -1,7 +1,7 @@
 # App Tu Empleado Perfecto, Technical Test
 /*Technical Test 23-03-23*/
 
-#__Descripción de la App__
+#__ Descripción de la App __
 
 Se trata de una App básica con un menú simple con 4 vistas, la primera vista es la página de home que contiene un menú con dos secciones **“Mis Empresas”** y **“Empleados”**, tal como muestra la imagen:
 
