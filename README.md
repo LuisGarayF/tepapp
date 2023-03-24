@@ -11,7 +11,8 @@ En la vista de **“Mis Empresas”** nos muestra un dashboard simple donde obte
 En la vista de empleados seleccionando la empresa podemos identificar los empleados contratados en la misma, con su respectiva información, en una versión posterior se incluirá tanto la edición y como la eliminación de cada trabajador.
 
 
-El desarrollo fue implementado utilizando **Django**, **React js** y **Postgresl**, el cual se encuentra alojado en la siguiente dirección: 
+El desarrollo fue implementado utilizando **Django**, **React js** y **Postgresl**, el cual se encuentra alojado en la siguiente dirección: [TEP App](https://github.com/LuisGarayF/tepapp).
+
 
 
 
